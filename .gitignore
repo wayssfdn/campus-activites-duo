@@ -1,0 +1,6 @@
+/config/connexion.local.php
+/tmp/
+*.log
+/.idea/
+/.vscode/
+/.env
