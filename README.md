@@ -9,4 +9,4 @@ Inscrivez-vous bientot.
 Installation : copier config/connexion.exemple.php en config/connexion.local.php
 travaille de ways et mattias
 Toujours faire 'git pull --no-rebase --no-edit origin main' avant de commencer
-une fois la séance terminé faire 'push origin main'
+une fois la séance terminé faire 'push origin '
