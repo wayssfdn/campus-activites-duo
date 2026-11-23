@@ -7,3 +7,4 @@ Lancer le serveur : php -S localhost:8000 -t public
 Bienvenue sur le campus.
 Inscrivez-vous bientot.
 Installation : copier config/connexion.exemple.php en config/connexion.local.php
+travaille de ways et mattias
