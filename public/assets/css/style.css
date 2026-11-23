@@ -4,7 +4,7 @@ body { background: #0f1724; color: #e6ecf5; }
 .site-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; padding-block: 1rem; }
 .brand { color: #f2f6fc; font-weight: 700; text-decoration: none; }
 .hero { background: #1b2a44; border-radius: 1rem; padding: clamp(1.5rem, 5vw, 4rem); }
-.eyebrow { color: #8fb4f0; font-size: .8rem; font-weight: 700; letter-spacing: .12em; }
+.eyebrow { color: #7da8ee; font-size: .8rem; font-weight: 700; letter-spacing: .12em; }
 .catalogue .card { border: 1px solid #2a3850; border-radius: .75rem; background: #172234; }
 .catalogue .card-body { padding: 1.25rem; }
 .catalogue article { margin-bottom: .75rem; }
